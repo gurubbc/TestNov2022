@@ -8,6 +8,7 @@ public class HelloWorld {
 		MyCalculator mc=new MyCalculator();
 		System.out.println("The sum is "+mc.sum(10, 15));
 
+		System.out.println("One");
 	}
 
 }
